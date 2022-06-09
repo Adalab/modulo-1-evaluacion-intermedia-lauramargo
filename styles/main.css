@@ -26,7 +26,7 @@
 }
 
 .header .menu {
-    justify-content: space-around;
+
     margin-bottom: 1.3rem;
     margin-top: 1.0rem;
 
@@ -36,6 +36,7 @@
     font-size: 1.6rem;
     color: #4a4a4a;
     text-transform: uppercase;
+
 }
 
 .main {

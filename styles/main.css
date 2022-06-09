@@ -18,6 +18,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 0;
 }
 
 .logo-spotify {
@@ -38,5 +39,25 @@
 .menu-items .blog .contact {
     font-size: 1.6rem;
     color: #4a4a4a;
+    text-transform: uppercase;
 
+
+}
+
+.main {
+    width: 90%;
+    height: 100rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #3CDBC0;
+}
+
+.main .main-container .h1 {
+    color: #FFFFFF;
+    font-size: 3.0rem;
+    width: 70%;
+    text-align: center;
+    transform: translate(0%, -50%);
 }

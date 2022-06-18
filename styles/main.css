@@ -6,6 +6,8 @@
 
 }
 
+/* header */
+
 .header {
     color: #4a4a4a;
     width: 100%;
@@ -48,11 +50,7 @@
     align-items: center;
     text-decoration: none;
 
-
-
 }
-
-
 
 .link .blog {
     padding-bottom: 1.3rem;
@@ -73,6 +71,8 @@
 .link {
     text-decoration: none;
 }
+
+/* main */
 
 .main {
     width: 100%;
